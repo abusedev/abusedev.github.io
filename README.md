@@ -1,4 +1,10 @@
-@buse
+## @buse 
+<div align="center">
+  <h3 align="center">@buse website</h3>
+  <p align="center">
+    This is the static website for quick links
+  </p>
+</div>
 
 ## Credit
 <div>
