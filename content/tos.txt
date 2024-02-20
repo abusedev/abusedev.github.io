@@ -1,0 +1,30 @@
+Last Updated: 12/14/23
+
+Welcome to @buse These Terms of Service ("Terms") govern your use of any @buse products("@buse", "abuse", or the "Service", or "Services") provided by @buse("we," "us," or "our"). By accessing, downloading, injecting, using our site, connecting to our web server/downloading anything from our web CDN, you agree to be bound by these Terms. If you do not agree with these Terms, please do not use our Service.
+
+    License
+    Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to use our Services
+
+    Restrictions
+    In using @buse, you agree not to:
+
+a. Reverse engineer, decompile, disassemble, debug, crack, unpack, devirtualize, ddos/dos our servers/cdn, or otherwise attempt to discover or modify the source code or underlying algorithms of @buse.
+
+b. Use @buse for any illegal activities, including but not limited to redistribution of our service, the distribution of malware, hacking tools, or other malicious software.
+
+    Intellectual Property
+    All rights, including all intellectual property such as, Code, Executables, DLLS, Algorithms, are owned by @buse.
+  
+    Information Collection
+    We contain the right to collect information about your computer. This may or may not include hardware identification(HWID), windows username, your local time, your ip address.
+    
+    Termination
+    We may terminate or suspend your access to @buse immediately, without prior notice or liability, if you breach any of these Terms. Upon termination, your right to use @buse will immediately cease(Blacklist). You may also terminate your access to @buse at any time by discontinuing your use of the Service.
+
+    We may also suspend all access to any of our Services at anytime. A "Lifetime" payment is the "Lifetime" of the project, not the users "Lifetime"("lifetime").
+
+    Disclaimer of Warranty and Limitation of Liability
+    @buse is provided on an "as is" basis without any warranties, express or implied. We disclaim all warranties, including any implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall we be liable for any damages, including any direct, indirect, incidental, special, or consequential damages, arising out of or in connection with your use of @buse, even if advised of the possibility of such damages.
+
+    Changes to Terms
+    We reserve the right to modify these Terms at any time. Your continued use of @buse after any changes to these Terms will constitute your acceptance of the modified Terms.
